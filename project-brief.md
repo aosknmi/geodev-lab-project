@@ -21,7 +21,7 @@ Access to healthcare is influenced by the geographic distance between communitie
 - **Ward boundaries:** [GRID3 Nigeria – Geospatial Data](https://grid3.org/geospatial-data-nigeria)
 - **Health facility locations:** [GRID3 Nigeria – Geospatial Data](https://grid3.org/geospatial-data-nigeria)
 - **Road network data:**
-  - [Humanitarian Data Exchange (HDX) – Nigeria Roads](https://data.humdata.org/dataset/nigeria-roads)
+  - [Humanitarian OpenStreetMap Team (HOTOSM)](https://data.humdata.org/dataset/hotosm_nga_roads)
   - [GRID3 – Geospatial Data Nigeria](https://grid3.org/geospatial-data-nigeria)
   - **Alternative:** [QuickOSM](https://plugins.qgis.org/plugins/QuickOSM/) plugin for QGIS, which allows OpenStreetMap road data to be downloaded directly into QGIS using the Overpass API.
 
