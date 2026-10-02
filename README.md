@@ -16,3 +16,7 @@ See **`project-brief.md`** for the full project brief.
 Month 1 focused on building foundational GIS knowledge, understanding geospatial data and its sources, preparing datasets for analysis, and applying basic spatial analysis techniques. Key areas covered included **coordinate reference systems, data quality, data preparation, spatial operations, and geospatial data management**.
 
 See **`month-1-summary.md`** for more details.
+
+## Month 2: Development Environment and Early Python
+
+- Week 5: Downloaded and set up Python, configured VS Code and the terminal, and wrote and ran `hello.py`.
