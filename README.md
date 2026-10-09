@@ -20,3 +20,4 @@ See **`month-1-summary.md`** for more details.
 ## Month 2: Development Environment and Early Python
 
 - Week 5: Downloaded and set up Python, configured VS Code and the terminal, and wrote and ran `hello.py`.
+- Week 6: install uv, verify the installation using uv --version, and install the pandas library using uv in the Windows PowerShell terminal.
