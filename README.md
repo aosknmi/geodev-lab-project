@@ -35,4 +35,5 @@ See **`month-1-summary.md`** for more details.
 
 - Week 5: Downloaded and set up Python, configured VS Code and the terminal, and wrote and ran `hello.py`.
 - Week 6: install uv, verify the installation using uv --version, and install the pandas library using uv in the Windows PowerShell terminal.
-- Week 7: analyse.py reads wards.csv, converts each area and classifies each ward
+- Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
+- Week 8: inspect_data.py summarises latitude and longitude in my Oyo State health facilities data.
