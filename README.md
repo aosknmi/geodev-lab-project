@@ -37,3 +37,4 @@ See **`month-1-summary.md`** for more details.
 - Week 6: install uv, verify the installation using uv --version, and install the pandas library using uv in the Windows PowerShell terminal.
 - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 - Week 8: inspect_data.py summarises latitude and longitude in my Oyo State health facilities data.
+- Week 9: Refactored the inspection program into small functions, calculated count, smallest and largest values, handled empty data, and summarised real columns from Month 1 data.
