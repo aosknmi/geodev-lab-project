@@ -48,3 +48,7 @@ In Week 7, I developed `analyse.py` to read `wards.csv`, convert each ward's are
 These activities improved my understanding of Python, CSV data processing, functions, and code organisation. I learned the importance of writing reusable code, handling edge cases, and separating calculations from printing results.
 
 Overall, Month 2 helped me move from setting up my programming environment to building practical data analysis scripts. I look forward to strengthening my Python and pandas skills and applying them to more advanced geospatial analysis and automation.
+
+## Month 3: Geospatial Python and Automation
+
+- Week 10: GeoPandas. Loaded, checked, joined, and mapped my wards and health facilities layer in code.
