@@ -4,7 +4,7 @@
 Which communities in Oyo State are located more than 5 km from the nearest health facility?
 
 **Participant:** Abdulsamad Olasunkanmi
-**Pod:** Pod 5
+**Pod:** Pod 21B
 **Programme:** GeoDev Lab Africa, Cohort One
 
 Currently working on this project as part of **GeoDev Lab Africa, Cohort One**.
@@ -33,7 +33,7 @@ See **`month-1-summary.md`** for more details.
 
 ## Month 2: Development Environment and Early Python
 
-- Week 5: Downloaded and set up Python, configured VS Code and the terminal, and wrote and ran hello.py.
+- Week 5: Downloaded and set up Python, configured VS Code and the terminal, and wrote and ran `hello.py`.
 - Week 6: install uv, verify the installation using uv --version, and install the pandas library using uv in the Windows PowerShell terminal.
 - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 - Week 8: inspect_data.py summarises latitude and longitude in my Oyo State health facilities data.
@@ -52,3 +52,4 @@ Overall, Month 2 helped me move from setting up my programming environment to bu
 ## Month 3: Geospatial Python and Automation
 
 - Week 10: GeoPandas. Loaded, checked, joined, and mapped my wards and health facilities layer in code.
+- Week 11: CRS and Spatial Operations. Reprojected Oyo State and health facilities datasets, calculated area, performed spatial counting, analysed coverage gaps, and validated geometries using GeoPandas.
