@@ -53,3 +53,4 @@ Overall, Month 2 helped me move from setting up my programming environment to bu
 
 - Week 10: GeoPandas. Loaded, checked, joined, and mapped my wards and health facilities layer in code.
 - Week 11: CRS and Spatial Operations. Reprojected Oyo State and health facilities datasets, calculated area, performed spatial counting, analysed coverage gaps, and validated geometries using GeoPandas.
+- Week 12: Rasters. Computed Band 4 and Band 5 using the teaching bands and summarised it.
