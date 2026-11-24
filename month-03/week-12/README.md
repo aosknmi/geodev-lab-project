@@ -1,4 +1,4 @@
-# Week 12: Raster with Rasterio
+# Week 12: Rasters with Rasterio
 
 ## Overview
 Week 12 focused on raster inspection, raster operations, NDVI calculation, and zonal statistics using Python geospatial libraries. The work includes the nine guided scripts, challenge scripts, and the outputs produced during the exercises.
